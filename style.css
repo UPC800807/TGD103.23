@@ -2,3 +2,7 @@ body{
     color: aqua;
     background-color: rgb(199, 105, 105);
 }
+
+h1{
+    font-size: 80px;
+}
